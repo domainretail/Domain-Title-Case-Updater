@@ -1,6 +1,7 @@
 # How To Run The Extension on Firefox
 1. Download the camel.xpi file
-2. In your firefox URL bar type in: "about:debugging"
+2. In your firefox URL bar type in: 'about:debugging'
+    Click on "This Firefox"
     Click on the Load Temporary Add-on button.
     Navigate to the directory where your camel.xpi file is located and select it.
     The extension will be loaded temporarily in the browser.
