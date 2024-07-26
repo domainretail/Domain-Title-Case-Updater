@@ -13,7 +13,7 @@ NOTE: This extension was only tested on Firefox 128.0.2 on Mac OS.  I have provi
 # Domain-Title-Case-Updater - How to use it:
 Use Domain Title Case Updater to bulk update your domains at Afternic.
 
-Use [Camel Case Domain Names from ExpiredDomains.net]([URL](https://member.expireddomains.net/tools/camel-case-domain-names/)) to bulk update your list. Go through the list and manually fix the ones that are not correct.
+Use [Camel Case Domain Names from ExpiredDomains.net]([URL](https://member.expireddomains.net/tools/camel-case-domain-names/)) to bulk update your list. Copy the list and paste it into a Notepad / Text editor and go through the list to manually fix the incorrectly formatted domains.
 
 1. Enter the domain names in the text area, one per line. To reduce the load, enter 50 to 100 domains at a time.
 
