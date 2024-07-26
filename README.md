@@ -1,5 +1,7 @@
 # How To Run The Extension on Firefox
 
+NOTE: This extension was only tested on Firefox 128.0.2 on Mac OS.  I have provided the full code, you can use Claude Ai or Cursor.com to debug it.
+
 1. Download the camel.xpi file
 2. In your firefox URL bar type in: about:debugging
 3. Click on: This Firefox
@@ -10,9 +12,6 @@
 
 # Domain-Title-Case-Updater - How to use it:
 Use Domain Title Case Updater to bulk update your domains at Afternic.
-
-
-Instructions
 
 Use [Camel Case Domain Names from ExpiredDomains.net]([URL](https://member.expireddomains.net/tools/camel-case-domain-names/)) to bulk update your list. Go through the list and manually fix the ones that are not correct.
 
