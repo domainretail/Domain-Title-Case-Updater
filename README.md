@@ -14,7 +14,7 @@ Use Domain Title Case Updater to bulk update your domains at Afternic.
 
 Instructions
 
-Use Camel Case Domain Names from ExpiredDomains.net to bulk update your list. Go through the list and manually fix the ones that are not correct.
+Use [Camel Case Domain Names from ExpiredDomains.net]([URL](https://member.expireddomains.net/tools/camel-case-domain-names/)) to bulk update your list. Go through the list and manually fix the ones that are not correct.
 
 1. Enter the domain names in the text area, one per line. To reduce the load, enter 50 to 100 domains at a time.
 
