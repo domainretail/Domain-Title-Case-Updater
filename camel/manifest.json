@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Domain Title Case Updater",
+  "version": "1.0",
+  "description": "Updates domain names to Title Case on Afternic",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "https://www.afternic.com/*",
+    "tabs"
+  ],
+  "browser_action": {
+    "default_title": "Domain Updater"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
