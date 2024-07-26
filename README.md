@@ -1,4 +1,12 @@
-# Domain-Title-Case-Updater
+# How To Run The Extension on Firefox
+1. Download the camel.xpi file
+2. In your firefox URL bar type in: "about:debugging"
+    Click on the Load Temporary Add-on button.
+    Navigate to the directory where your camel.xpi file is located and select it.
+    The extension will be loaded temporarily in the browser.
+
+
+# Domain-Title-Case-Updater - How to use it:
 Use Domain Title Case Updater to bulk update your domains at Afternic.
 
 
